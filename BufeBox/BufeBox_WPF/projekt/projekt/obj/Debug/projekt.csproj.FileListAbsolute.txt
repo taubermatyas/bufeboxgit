@@ -1,0 +1,255 @@
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\MainWindow.g.cs
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\MainWindow.baml
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\pa_info2005a1\Desktop\projekt\projekt\obj\Debug\App.baml
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\fonok.g.cs
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\App.baml
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\fonok.baml
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\nt_info2005a1\OneDrive\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\MySql.Data.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\fonok.g.cs
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\App.baml
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\fonok.baml
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\fonok.g.cs
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\App.baml
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\fonok.baml
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\User\OneDrive\Desktop\proj\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rendszergazda\Desktop\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\fonok.g.cs
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\App.baml
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\fonok.baml
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Rendszergazda\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\fonok.g.cs
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\App.baml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\fonok.baml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\BufeDetails.baml
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\BufeDetails.g.cs
+C:\Users\pa_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\MySql.Data.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\BufeDetails.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\BufeDetails.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\App.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\keszlet.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\keszlet.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\bin\Debug\MySql.Data.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\darabhozzaad.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\termekmodositas.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\darabhozzaad.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki András\projekt\projekt\obj\Debug\termekmodositas.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\ZstdNet.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\System.Memory.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\System.Buffers.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\MySql.Data.xml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\BufeDetails.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\belepes.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\darabhozzaad.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\termekmodositas.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\BufeDetails.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\belepes.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\darabhozzaad.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\keszlet.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\raktaros.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\termekmodositas.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\App.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\keszlet.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\raktaros.baml
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\nt_info2005a1\Desktop\7_Tauber Mátyás_Németh Tamás_Pataki Andrásv2\projekt\projekt\bin\Debug\MySql.Data.dll

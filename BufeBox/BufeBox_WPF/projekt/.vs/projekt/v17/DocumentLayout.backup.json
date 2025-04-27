@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wpf\\projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF3558C-6230-4E3F-88EA-1348680CA3E2}|Bufetest\\Bufetest.csproj|c:\\wpf\\projekt\\bufetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF3558C-6230-4E3F-88EA-1348680CA3E2}|Bufetest\\Bufetest.csproj|solutionrelative:bufetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\termekmodositas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\termekmodositas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\raktaros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\raktaros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\keszlet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\keszlet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\darabhozzaad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\darabhozzaad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\bufedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\bufedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|C:\\wpf\\projekt\\projekt\\belepes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB30A6-0CD2-441C-81A1-D1B59A85552D}|projekt\\projekt.csproj|solutionrelative:projekt\\belepes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "termekmodositas.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\termekmodositas.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\termekmodositas.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\termekmodositas.xaml.cs",
+              "RelativeToolTip": "projekt\\termekmodositas.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:33.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "raktaros.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\raktaros.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\raktaros.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\raktaros.xaml.cs",
+              "RelativeToolTip": "projekt\\raktaros.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:26.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "keszlet.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\keszlet.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\keszlet.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\keszlet.xaml.cs",
+              "RelativeToolTip": "projekt\\keszlet.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "darabhozzaad.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\darabhozzaad.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\darabhozzaad.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\darabhozzaad.xaml.cs",
+              "RelativeToolTip": "projekt\\darabhozzaad.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:19.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BufeDetails.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\BufeDetails.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\BufeDetails.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\BufeDetails.xaml.cs",
+              "RelativeToolTip": "projekt\\BufeDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:12.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "belepes.xaml.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\projekt\\belepes.xaml.cs",
+              "RelativeDocumentMoniker": "projekt\\belepes.xaml.cs",
+              "ToolTip": "C:\\wpf\\projekt\\projekt\\belepes.xaml.cs",
+              "RelativeToolTip": "projekt\\belepes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:24:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wpf\\projekt\\Bufetest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Bufetest\\UnitTest1.cs",
+              "ToolTip": "C:\\wpf\\projekt\\Bufetest\\UnitTest1.cs",
+              "RelativeToolTip": "Bufetest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:23:54.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

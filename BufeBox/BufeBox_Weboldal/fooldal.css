@@ -1,0 +1,866 @@
+/* Alapértelmezett színek és stílusok a sötét témához */
+:root {
+    --hatter: #1A2526;
+    --szoveg-szin: #E5E5E5;
+    --kartya-hatter: #2A3738;
+    --arnyek: 0 4px 10px rgba(26, 37, 38, 0.3);
+    --gomb-hatter: #FFC107;
+    --gomb-hover: #fabd04;
+}
+
+/* Világos téma beállításai */
+body.vilagos-tema {
+    --hatter: #f0f0f0;
+    --szoveg-szin: #333333;
+    --kartya-hatter: #ffffff;
+    --arnyek: 0 4px 10px rgba(0, 0, 0, 0.1);
+    --gomb-hatter: #fdd150;
+    --gomb-hover: #FFC107;
+}
+
+/* Alapértelmezett globális stílusok */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Háttér és szöveg színe, sima átmenet a témaváltáshoz */
+body {
+    background: var(--hatter);
+    color: var(--szoveg-szin);
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Betöltő képernyő */
+#betolto {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--hatter);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.5s ease;
+}
+
+/* Betöltő animáció */
+.betolto-kor {
+    width: 50px;
+    height: 50px;
+    border: 5px solid var(--szoveg-szin);
+    border-top: 5px solid var(--gomb-hatter);
+    border-radius: 50%;
+    animation: forgas 1s linear infinite;
+}
+
+@keyframes forgas {
+    to { transform: rotate(360deg); }
+}
+
+/* Fejléc stílusok */
+.fejlec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: rgba(26, 37, 38, 0.2);
+    backdrop-filter: blur(15px);
+    box-shadow: var(--arnyek);
+    border-bottom: 1px solid rgba(229, 229, 229, 0.1);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    height: 70px;
+}
+
+/* Világos téma fejléce */
+body.vilagos-tema .fejlec {
+    background: rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Logó és márkanév */
+.fejlec-marka {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Logó mérete */
+.fejlec-logo {
+    height: 40px;
+    width: auto;
+    transition: height 0.3s ease;
+}
+
+/* Fejléc címe */
+.fejlec h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--szoveg-szin);
+}
+
+/* Ikonok elrendezése */
+.ikonok {
+    display: flex;
+    gap: 20px;
+}
+
+/* Ikonok mérete és interakció */
+.ikonok i {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Téma váltás ikon animáció */
+#tema-valtas:hover i {
+    transform: rotate(180deg);
+}
+
+/* Oldalsáv */
+.oldalsav {
+    position: fixed;
+    top: 0;
+    left: -200px;
+    width: 200px;
+    height: 100%;
+    background: rgba(26, 37, 38, 0.9);
+    backdrop-filter: blur(12px);
+    padding: 20px;
+    transition: left 0.3s ease;
+    z-index: 999;
+}
+
+/* Világos téma oldalsáv */
+body.vilagos-tema .oldalsav {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+/* Aktív oldalsáv */
+.oldalsav.aktiv {
+    left: 0;
+}
+
+/* Oldalsáv lista */
+.oldalsav ul {
+    list-style: none;
+    margin-top: 80px;
+}
+
+/* Oldalsáv elemek */
+.oldalsav ul li {
+    margin: 20px 0;
+}
+
+/* Oldliteral: none;
+}
+
+/* Oldalsáv gombok */
+.oldalsav-gomb {
+    width: 100%;
+    padding: 10px;
+    background: transparent;
+    border: none;
+    color: var(--szoveg-szin);
+    text-align: left;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+/* Ikonok az oldalsáv gombokban */
+.oldalsav-gomb i {
+    margin-right: 8px;
+}
+
+/* Hover effektus */
+.oldalsav-gomb:hover {
+    background: var(--gomb-hatter);
+}
+
+/* Hamburger menü */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    width: 30px;
+    height: 24px;
+    position: relative;
+}
+
+/* Hamburger csíkok */
+.hamburger span {
+    width: 100%;
+    height: 3px;
+    background: var(--szoveg-szin);
+    transition: all 0.3s ease;
+    position: absolute;
+    left: 0;
+}
+
+/* Hamburger csíkok pozíciói */
+.hamburger span:nth-child(1) {
+    top: 0;
+}
+
+.hamburger span:nth-child(2) {
+    top: 9px;
+}
+
+.hamburger span:nth-child(3) {
+    top: 18px;
+}
+
+/* Hamburger nyitott állapot */
+.hamburger.nyitott span:nth-child(1) {
+    transform: rotate(45deg);
+    top: 9px;
+}
+
+.hamburger.nyitott span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.nyitott span:nth-child(3) {
+    transform: rotate(-45deg);
+    top: 9px;
+}
+
+/* Tartalom terület */
+.tartalom {
+    padding: 90px 20px 20px;
+    transition: margin-left 0.3s ease;
+}
+
+/* Tartalom eltolása oldalsáv nyitásakor */
+.tartalom.eltolva {
+    margin-left: 200px;
+}
+
+/* Képgaléria */
+.galeria {
+    position: relative;
+    width: 100%;
+    margin: 0 auto 40px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+/* Galéria diák */
+.galeria-dia {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+/* Galéria képek */
+.galeria-dia img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+/* Galéria szövege */
+.galeria-szoveg {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: #A9A9A9;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Szövegek elrejtése alapértelmezés szerint */
+.galeria-szoveg p {
+    display: none;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+/* Aktív szöveg megjelenítése */
+.galeria-szoveg p.aktiv {
+    display: block;
+}
+
+/* Menü elrendezése */
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 40px;
+    padding: 10px;
+    background: rgba(26, 37, 38, 0.3);
+    backdrop-filter: blur(12px);
+    border-radius: 10px;
+}
+
+/* Világos téma menü */
+body.vilagos-tema .menu {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Menü gombok */
+.menu button {
+    padding: 10px 20px;
+    border: none;
+    background: transparent;
+    color: var(--szoveg-szin);
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+/* Menü gomb hover és aktív állapot */
+.menu button:hover,
+.menu button.aktiv {
+    background: var(--gomb-hatter);
+}
+
+/* Kereső mező konténer */
+.kereso-kontener {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Kereső mező */
+#kereso-mezo {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgba(229, 229, 229, 0.1);
+    color: var(--szoveg-szin);
+}
+
+/* Világos téma kereső mező */
+body.vilagos-tema #kereso-mezo {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+/* Kosár gomb */
+.kosar {
+    position: relative;
+    padding: 10px;
+    background: transparent;
+    border: none;
+    color: var(--szoveg-szin);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+/* Kosár hover effektus */
+.kosar:hover {
+    transform: scale(1.1);
+}
+
+/* Kosár kiemelés animáció */
+.kosar.ragyogas {
+    animation: ragyogas 0.5s ease-in-out;
+}
+
+@keyframes ragyogas {
+    50% { transform: scale(1.2); }
+}
+
+/* Kosár számláló */
+#kosar-szam {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: var(--gomb-hatter);
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 0.8rem;
+}
+
+/* Étel rács */
+.etel-racs {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 0 20px;
+}
+
+/* Étel kártya */
+.etel-kartya {
+    background: var(--kartya-hatter);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: var(--arnyek);
+    transition: transform 0.3s ease, opacity 0.5s ease;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+/* Látható étel kártya */
+.etel-kartya.lathato {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Étel kártya képe */
+.etel-kartya img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+/* Étel kártya címe */
+.etel-kartya h3 {
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+/* Étel ára */
+.etel-kartya .ar {
+    margin: 0 10px;
+    color: var(--gomb-hatter);
+    font-weight: bold;
+}
+
+/* Étel leírása */
+.etel-kartya p {
+    margin: 10px;
+    font-size: 0.9rem;
+}
+
+/* Kosárba gomb */
+.kosarba {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: var(--gomb-hatter);
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+/* Kosárba gomb hover */
+.kosarba:hover {
+    background: var(--gomb-hover);
+}
+
+/* Fátyol és profil ablak */
+.fatyol, #profilFatyol {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(26, 37, 38, 0.7);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Fizetési és profil ablak */
+.fizetesi-ablak, .profil-ablak {
+    background: var(--kartya-hatter);
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 500px;
+    transform: scale(0.8);
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+/* Nyitott ablakok */
+.fizetesi-ablak.nyitva, .profil-ablak.nyitva {
+    transform: scale(1);
+    opacity: 1;
+}
+
+/* Bezárás gomb */
+.bezar {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Ablak címei */
+.fizetesi-ablak h2, .profil-ablak h2 {
+    margin-bottom: 20px;
+}
+
+/* Fizetési tétel */
+.fizetesi-tetel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid rgba(229, 229, 229, 0.1);
+}
+
+/* Mennyiség vezérlők */
+.mennyiseg-vezerlok {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Mennyiség gombok */
+.mennyiseg-gomb {
+    background: var(--gomb-hatter);
+    border: none;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+/* Mennyiség gomb hover */
+.mennyiseg-gomb:hover {
+    background: var(--gomb-hover);
+}
+
+/* Mennyiség szöveg */
+.mennyiseg {
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+/* Tétel törlése */
+.fizetesi-tetel .torles {
+    cursor: pointer;
+    color: var(--gomb-hatter);
+}
+
+/* Összesen összeg */
+.osszesen {
+    margin: 20px 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Fizetési megjegyzés */
+#fizetesi-megjegyzes {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background: rgba(150, 150, 150, 0.1);
+    color: var(--szoveg-szin);
+    resize: none;
+}
+
+/* Fizetési gomb */
+.fizetesi-gomb {
+    width: 100%;
+    padding: 10px;
+    background: var(--gomb-hatter);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+/* Fizetési gomb hover */
+.fizetesi-gomb:hover {
+    background: var(--gomb-hover);
+}
+
+/* Profil űrlap */
+.profil-ablak form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Profil űrlap mezők */
+.profil-ablak input, .profil-ablak textarea {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgba(150, 150, 150, 0.1);
+    color: var(--szoveg-szin);
+}
+
+/* Profil űrlap gomb */
+.profil-ablak button {
+    padding: 10px;
+    background: var(--gomb-hatter);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+/* Profil gomb hover */
+.profil-ablak button:hover {
+    background: var(--gomb-hover);
+}
+
+/* Rendelési lista */
+.rendeles-lista {
+    margin-top: 10px;
+}
+
+/* Rendelés tétel */
+.rendeles-tetel {
+    border-bottom: 1px solid rgba(150, 150, 150, 0.1);
+    padding: 10px 0;
+}
+
+/* Rendelés fejléce */
+.rendeles-fejlec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+/* Toggle ikon */
+.valtas-ikon {
+    font-size: 0.8rem;
+}
+
+/* Rendelés részletek */
+.rendeles-reszletek {
+    display: none;
+    padding: 10px;
+    background: rgba(150, 150, 150, 0.05);
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+/* Aktuális idő */
+#aktualis-idopont {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1.1rem;
+}
+
+/* Értesítés */
+.ertesites {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: var(--arnyek);
+    z-index: 2000;
+    transform: translateX(100%);
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Látható értesítés */
+.ertesites.lathato {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+/* Rejtett értesítés */
+.ertesites.rejtett {
+    transform: translateX(100%);
+    opacity: 0;
+}
+
+/* Sikeres értesítés */
+.ertesites.sikeres {
+    background: rgba(76, 175, 80, 0.2);
+    border: 1px solid rgba(76, 175, 80, 0.5);
+}
+
+/* Hiba értesítés */
+.ertesites.hiba {
+    background: rgba(244, 67, 54, 0.2);
+    border: 1px solid rgba(244, 67, 54, 0.5);
+}
+
+/* Világos téma értesítések */
+body.vilagos-tema .ertesites.sikeres {
+    background: rgba(76, 175, 80, 0.1);
+    border: 1px solid rgba(76, 175, 80, 0.3);
+}
+
+body.vilagos-tema .ertesites.hiba {
+    background: rgba(244, 67, 54, 0.1);
+    border: 1px solid rgba(244, 67, 54, 0.3);
+}
+
+/* Értesítés ikon */
+.ertesites .ikon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+/* Sikeres ikon */
+.ertesites.sikeres .ikon {
+    background: rgba(76, 175, 80, 0.5);
+}
+
+/* Hiba ikon */
+.ertesites.hiba .ikon {
+    background: rgba(244, 67, 54, 0.5);
+}
+
+/* Értesítés címe */
+.ertesites h3 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+/* Értesítés szövege */
+.ertesites p {
+    margin: 5px 0;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+/* Értesítés gomb */
+.ertesites button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+/* Sikeres gomb */
+.ertesites.sikeres button {
+    background: #4CAF50;
+}
+
+/* Sikeres gomb hover */
+.ertesites.sikeres button:hover {
+    background: #45a049;
+}
+
+/* Hiba gomb */
+.ertesites.hiba button {
+    background: #F44336;
+}
+
+/* Hiba gomb hover */
+.ertesites.hiba button:hover {
+    background: #da190b;
+}
+
+/* Folyamatjelző */
+.ertesites .folyamatjelzo {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 4px;
+    background: #4CAF50;
+    border-radius: 0 0 10px 10px;
+    animation: folyamat 5s linear forwards;
+}
+
+/* Hiba folyamatjelző */
+.ertesites.hiba .folyamatjelzo {
+    background: #F44336;
+}
+
+@keyframes folyamat {
+    to { width: 100%; }
+}
+
+/* Nagyobb képernyőkre */
+@media (min-width: 769px) {
+    .hamburger {
+        display: none;
+    }
+
+    .oldalsav {
+        display: none;
+    }
+
+    .tartalom.eltolva {
+        margin-left: 0;
+    }
+
+    .ikonok {
+        display: flex;
+    }
+
+    .fejlec-logo {
+        height: 50px;
+    }
+
+    .fejlec h1 {
+        font-size: 2.2rem;
+    }
+}
+
+/* Mobil nézet */
+@media (max-width: 768px) {
+    .ikonok {
+        display: none;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .oldalsav {
+        display: block;
+    }
+
+    .fejlec-logo {
+        height: 30px;
+    }
+
+    .fejlec h1 {
+        font-size: 1.5rem;
+    }
+
+    .fejlec {
+        height: 60px;
+    }
+
+    .tartalom {
+        padding-top: 80px;
+    }
+}
+
+/* Kicsi képernyők */
+@media (max-width: 480px) {
+    .fejlec-logo {
+        height: 25px;
+    }
+
+    .fejlec h1 {
+        font-size: 1.2rem;
+    }
+
+    .fejlec {
+        padding: 10px;
+        height: 50px;
+    }
+
+    .tartalom {
+        padding-top: 70px;
+    }
+
+    .fejlec-marka {
+        gap: 5px;
+    }
+}

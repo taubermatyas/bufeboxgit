@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufeBackEnd", "BufeBackEnd\BufeBackEnd.csproj", "{4EF6EB71-207A-4863-970D-4358F1B600F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufeBackEndTest", "BufeBackEndTest\BufeBackEndTest.csproj", "{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF6EB71-207A-4863-970D-4358F1B600F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF6EB71-207A-4863-970D-4358F1B600F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF6EB71-207A-4863-970D-4358F1B600F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF6EB71-207A-4863-970D-4358F1B600F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F089AD53-79F5-4907-B710-0F926FAC37E9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,108 @@
+﻿<Window x:Class="projekt.termekmodositas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Új termék hozzáadása" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" WindowStyle="None" Background="#2d2d3d" Height="450" Width="500">
+
+    <Grid Margin="10">
+        <Border Background="#2d2d3d" CornerRadius="10" Padding="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="5" Opacity="0.6"/>
+            </Border.Effect>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <!-- Cím -->
+                    <RowDefinition Height="Auto"/>
+                    <!-- Termék neve -->
+                    <RowDefinition Height="Auto"/>
+                    <!-- Ár -->
+                    <RowDefinition Height="Auto"/>
+                    <!-- Kategória -->
+                    <RowDefinition Height="Auto"/>
+                    <!-- Leírás -->
+                    <RowDefinition Height="Auto"/>
+                    <!-- Gombok -->
+                </Grid.RowDefinitions>
+
+                <!-- Cím -->
+                <Label Content="Termék módosítás" FontSize="20" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                <!-- Termék neve -->
+                <StackPanel Grid.Row="1" Margin="0,0,0,10">
+                    <Label Content="Termék neve:" Foreground="White" FontWeight="Bold"/>
+                    <TextBox Name="TermekNevTextBox" Height="30" Background="#3a3a4d" Foreground="White"
+                             FontWeight="Bold" Padding="5" TextChanged="TermekNevTextBox_TextChanged"/>
+                </StackPanel>
+
+                <!-- Ár -->
+                <StackPanel Grid.Row="2" Margin="0,0,0,10">
+                    <Label Content="Ár (Ft):" Foreground="White" FontWeight="Bold"/>
+                    <TextBox Name="ArTextBox" Height="30" Background="#3a3a4d" Foreground="White"
+                             FontWeight="Bold" Padding="5" TextChanged="ArTextBox_TextChanged"/>
+                </StackPanel>
+
+                <!-- Kategória -->
+                <StackPanel Grid.Row="3" Margin="0,0,0,10">
+                    <Label Content="Darabszám:" Foreground="White" FontWeight="Bold"/>
+                    <TextBox Name="DarabTextBox" Height="30" Background="#3a3a4d" Foreground="White"
+                             FontWeight="Bold" Padding="5" TextChanged="DarabTextBox_TextChanged"/>
+                </StackPanel>
+
+                <!-- Leírás -->
+                <StackPanel Grid.Row="4" Margin="0,0,0,10">
+                    <Label Content="KépUrl:" Foreground="White" FontWeight="Bold"/>
+                    <TextBox Name="KepTextBox" Height="30" Background="#3a3a4d" Foreground="White"
+                             FontWeight="Bold" Padding="5" TextChanged="KepTextBox_TextChanged"/>
+                </StackPanel>
+
+                <!-- Gombok -->
+                <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                    <Button x:Name="Mentés" Content="Mentés" Width="100" Height="35" Margin="10,0"
+                            Background="#4a90e2" Foreground="White" FontWeight="Bold" Cursor="Hand" Click="Mentes_Click" IsEnabled="False">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="border" CornerRadius="10" Background="{TemplateBinding Background}">
+                                    <TextBlock Text="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}" 
+                                               HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="#6BA9E6"/>
+                                        <Setter TargetName="border" Property="Effect">
+                                            <Setter.Value>
+                                                <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#FFA3A3A3" Opacity="0.8"/>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button Content="Mégse" Width="100" Height="35" Margin="10,0"
+                            Background="#e63946" Foreground="White" FontWeight="Bold" Cursor="Hand" Click="Megse_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="border" CornerRadius="10" Background="{TemplateBinding Background}">
+                                    <TextBlock Text="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}" 
+                                               HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="#ff4d5d"/>
+                                        <Setter TargetName="border" Property="Effect">
+                                            <Setter.Value>
+                                                <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White" Opacity="0.8"/>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

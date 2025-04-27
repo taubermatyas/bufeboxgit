@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BüféBox</title>
+    <link rel="icon" type="image/x-icon" href="favico/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap">
+    <link rel="stylesheet" href="fooldal.css">
+</head>
+<body>
+    <header class="fejlec">
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="fejlec-marka">
+            <img src="img/bufelogo.png" alt="BüféBox Logó" class="fejlec-logo">
+            <h1>BüféBox</h1>
+        </div>
+        <div class="ikonok">
+            <div id="tema-valtas"><i class="fas fa-moon"></i></div>
+            <div id="profilGomb"><i class="fas fa-user"></i></div>
+        </div>
+    </header>
+
+    <div class="oldalsav">
+        <ul>
+            <li><button id="oldalsav-tema" class="oldalsav-gomb"><i class="fas fa-moon"></i> Téma váltása</button></li>
+            <li><button id="oldalsav-profil" class="oldalsav-gomb"><i class="fas fa-user"></i> Profil</button></li>
+            <li><button id="oldalsav-kijelentkezes" class="oldalsav-gomb"><i class="fas fa-sign-out-alt"></i> Kijelentkezés</button></li>
+        </ul>
+    </div>
+
+    <div class="tartalom">
+        <div class="galeria">
+            <div class="galeria-dia">
+                <img src="img/akcio.png" alt="Első dia">
+                <img src="img/img2.jpg" alt="Második dia">
+                <img src="img/img3.jpg" alt="Harmadik dia">
+            </div>
+            <div class="galeria-szoveg">
+                <p class="aktiv">Üdvözöljük a BüféBox-ban!</p>
+                <p>Új ízek, új élmények!</p>
+                <p>Fedezze fel akciós ajánlatainkat!</p>
+            </div>
+        </div>
+
+        <div class="menu" id="menu">
+            <div class="kereso-kontener">
+                <input type="text" id="kereso-mezo" placeholder="Keresés az ételek között...">
+            </div>
+            <button class="kosar" onclick="kosarMegnyitas()">
+                🛒 <span id="kosar-szam">0</span>
+            </button>
+        </div>
+
+        <div class="etel-racs" id="etel-racs"></div>
+
+        <p id="aktualis-idopont"></p>
+    </div>
+
+    <div class="fatyol" id="fatyol"></div>
+    <div id="profilFatyol">
+        <div class="profil-ablak">
+            <span class="bezar" onclick="profilBezar()">×</span>
+            <div id="profilTartalom"></div>
+        </div>
+    </div>
+
+    <script src="fooldal.js"></script>
+</body>
+</html>

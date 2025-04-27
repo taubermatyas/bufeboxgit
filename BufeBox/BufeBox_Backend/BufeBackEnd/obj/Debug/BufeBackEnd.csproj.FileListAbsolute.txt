@@ -1,0 +1,214 @@
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.dll.config
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.pdb
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.exe
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.exe.config
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.rsp
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.exe
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.exe.config
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.rsp
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.AppContext.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Console.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Net.Http.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.exe
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.exe.config
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.rsp
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\BouncyCastle.Crypto.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\EntityFramework.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\EntityFramework.SqlServer.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Google.Protobuf.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.Streams.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Hash.xxHash.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\MySql.Data.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\MySql.Data.EntityFramework.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Renci.SshNet.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Swashbuckle.Core.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Buffers.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Memory.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Net.Http.Formatting.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Numerics.Vectors.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Threading.Tasks.Extensions.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Cors.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.Cors.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.WebHost.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Ubiety.Dns.Core.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\WebActivatorEx.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Zstandard.Net.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\EntityFramework.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\EntityFramework.SqlServer.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Google.Protobuf.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.Streams.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\K4os.Hash.xxHash.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\MySql.Data.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\MySql.Data.EntityFramework.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.pdb
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Renci.SshNet.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Buffers.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Memory.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Net.Http.Formatting.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Numerics.Vectors.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Threading.Tasks.Extensions.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.Cors.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.WebHost.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Új mappa\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.csproj.AssemblyReference.cache
+C:\Új mappa\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.csproj.CoreCompileInputs.cache
+C:\Új mappa\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBack.DDF32555.Up2Date
+C:\Új mappa\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.dll
+C:\Új mappa\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.pdb
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.dll.config
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\BufeBackEnd.pdb
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.exe
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.exe.config
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csc.rsp
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.exe
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.exe.config
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\csi.rsp
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.AppContext.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Console.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Net.Http.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.exe
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.exe.config
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\vbc.rsp
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\BouncyCastle.Crypto.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\EntityFramework.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Google.Protobuf.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Hash.xxHash.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\MySql.Data.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\MySql.Data.EntityFramework.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Renci.SshNet.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Swashbuckle.Core.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Buffers.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Memory.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Numerics.Vectors.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Cors.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Ubiety.Dns.Core.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\WebActivatorEx.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Zstandard.Net.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\EntityFramework.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Google.Protobuf.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\K4os.Hash.xxHash.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\MySql.Data.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\MySql.Data.EntityFramework.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Renci.SshNet.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Buffers.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Memory.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Numerics.Vectors.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.csproj.AssemblyReference.cache
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.csproj.CopyComplete
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.dll
+C:\Users\taube\Desktop\BufeBackEnd\BufeBackEnd\obj\Debug\BufeBackEnd.pdb

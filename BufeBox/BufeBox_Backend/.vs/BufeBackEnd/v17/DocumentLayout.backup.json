@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u00DAj mappa\\BufeBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\vasarlocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\vasarlocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\termekcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\termekcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|c:\\\u00FAj mappa\\bufebackend\\bufebackendtest\\kosarbacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\kosarbacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF6EB71-207A-4863-970D-4358F1B600F3}|BufeBackEnd\\BufeBackEnd.csproj|c:\\\u00FAj mappa\\bufebackend\\bufebackend\\models\\bufecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF6EB71-207A-4863-970D-4358F1B600F3}|BufeBackEnd\\BufeBackEnd.csproj|solutionrelative:bufebackend\\models\\bufecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\kategoriacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\kategoriacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\szamlacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\szamlacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\kosarcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\kosarcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|C:\\\u00DAj mappa\\BufeBackEnd\\bufebackendtest\\dolgozocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7A9A5-D816-4E2E-99DC-6C3945FEDFEB}|BufeBackEndTest\\BufeBackEndTest.csproj|solutionrelative:bufebackendtest\\dolgozocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BufeContext.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEnd\\Models\\BufeContext.cs",
+              "RelativeDocumentMoniker": "BufeBackEnd\\Models\\BufeContext.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEnd\\Models\\BufeContext.cs",
+              "RelativeToolTip": "BufeBackEnd\\Models\\BufeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T06:27:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VasarloControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\VasarloControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\VasarloControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\VasarloControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\VasarloControllerTest.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:32:34.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TermekControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\TermekControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\TermekControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\TermekControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\TermekControllerTest.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:30:43.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SzamlaControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\SzamlaControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\SzamlaControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\SzamlaControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\SzamlaControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:29:07.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KosarControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KosarControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\KosarControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KosarControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\KosarControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:27:16.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KategoriaControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KategoriaControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\KategoriaControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KategoriaControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\KategoriaControllerTest.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:25:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KosarbaControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KosarbaControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\KosarbaControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\KosarbaControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\KosarbaControllerTest.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:21:09.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DolgozoControllerTest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\DolgozoControllerTest.cs",
+              "RelativeDocumentMoniker": "BufeBackEndTest\\DolgozoControllerTest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\BufeBackEnd\\BufeBackEndTest\\DolgozoControllerTest.cs",
+              "RelativeToolTip": "BufeBackEndTest\\DolgozoControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:14:01.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
