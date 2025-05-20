@@ -64,13 +64,3 @@ namespace BufeBackEnd
         }
     }
 }
-
-// A modellek (pl. Vasarlo, Dolgozo) osztályai megfelelőek. Fontos azonban:
-// - Jelszavakat éles környezetben hashelni kellene (pl. BCrypt segítségével)
-// - Kategória, termék, kosár kapcsolatok validálása már jól implementált
-
-// További lépések:
-// - Az adatbázis inicializálása EF-migrációval vagy SQL-ből
-// - Swashbuckle-hez (Swagger) ellenőrizni kell a controller metódusok input/output típusainak validitását
-
-// Készen állok arra is, hogy végigmenjünk a kontrollerek javításán egyesével — csak szólj, melyikkel kezdjük!
